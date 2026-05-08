@@ -3,7 +3,7 @@
 
 ## Model Details
 
-The implementation of the {PROJECT NAME} within this repository was created as part of an NHS England PhD internship project undertaken by {PROJECT AUTHOR} {LINK TO LAST COMMIT WITH ABBREVIATED SHA}. This model card describes the updated version of the model, released {DATE OF RELEASE}.
+The implementation of the {PROJECT NAME} within this repository was created as part of an NHS England project undertaken by {PROJECT AUTHOR} {LINK TO LAST COMMIT WITH ABBREVIATED SHA}. This model card describes the updated version of the model, released {DATE OF RELEASE}.
 
 ## Model Use
 
