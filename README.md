@@ -1,7 +1,7 @@
 # {REPORT NAME}
 ## NHS England South West Insights and Intelligence
 
-### About the Report
+### About the Report/Code
 
 {ADD EXPERIMENTAL STATUS BADGE IF PROJECT IS IN DEVELOPMENT}
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
@@ -10,7 +10,7 @@ This repository holds code for the {REPORT NAME} {SHORT DESCRIPTION}
 
 _**Note:** Only public or fake data are shared in this repository._
 
-### Report Overview
+### Report/Code Overview
 
 **Status:** Active / Retired / In development
 
@@ -62,6 +62,12 @@ To clone the repo:
 
 #### Datasets
 {DESCRIPTION AND LINKS TO DATASETS}
+
+### Dependancies or parent code
+{Links to any other code depedancies that are used within this code}
+
+### Dependants or child code
+{Links to any other code dependants that use this code}
 
 {LINK TO FAKE DATA TO SUPPORT INITAIL CODE RUNS}
 
